@@ -27,7 +27,7 @@ This is mainly aimed towards PVP and QOL. Target is 144fps vsync with fancy grap
 - Particle multiplier (10x)
 - Partial fps boost (fucked up the mc source so might have visual bugs)
 - Fullbright
-- More GUI options (server list, connect straight to Hypixel from menu, etc.)
+- More GUI options (server list, connect straight to Hypixel from menu, reconnect, etc.)
 - Hentai background
 - No healthbar flicker
 - No sidebar red numbers
