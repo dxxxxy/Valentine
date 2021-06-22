@@ -11,7 +11,7 @@ This is mainly aimed towards PVP and QOL. Target is 144fps vsync with fancy grap
 - No customization (this is my own personal client and all the source code is edited for me and not for you)
 
 ## Recommended Flags
-> this is made to run on 1gb, no more, no less
+> i recommend running at 1gb since it doesnt really matter, because lightweight
 
 `-client -d64 -Xms1G -Xmx1G -Xmn128m -XX:+UseG1GC -XX:+AlwaysPreTouch -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC -XX:TargetSurvivorRatio=90 -XX:G1NewSizePercent=50 -XX:G1MaxNewSizePercent=80 -XX:InitiatingHeapOccupancyPercent=10 -XX:G1MixedGCLiveThresholdPercent=50 -XX:+AggressiveOpts`
 
