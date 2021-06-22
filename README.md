@@ -37,3 +37,5 @@ This is mainly aimed towards PVP and QOL. Target is 144fps vsync with fancy grap
 - Beautiful background (you can change it)
 - No healthbar flicker
 - No sidebar red numbers
+- PVP particles on any mob with any item
+- Garbage collection changes
