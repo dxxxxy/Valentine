@@ -1,6 +1,8 @@
 # Valentine - 0.1
 My personal 1.8.9 mc client
 
+## I LOST THE WHOLE PROCESS OF CONFIGURATING THIS PROJECT AND I CANT DO ANYTHING WITH IT ANYMORE, FOR NOW ITS DEAD, WILL TRY AGAIN LATER
+
 ## Why?
 Idk I was bored and this is very lightweight modification, since this is not Forge (garbage optimized) or some big client like Lunar or Badlion.
 This is mainly aimed towards PVP and QOL. Target is 144fps vsync with fancy graphics.
